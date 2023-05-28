@@ -1,0 +1,49 @@
+h1 {
+  margin: 10px 0 auto;
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+  margin: 5px 0 auto;
+}
+.weather {
+  border: 2px solid #3f3d56;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  background-color: rgb(224, 214, 226);
+}
+#date {
+  margin: 0 auto;
+}
+#description {
+  margin: 0 auto;
+}
+#temperature {
+  font-size: 40px;
+  margin: 5px 0 auto;
+}
+
+#days {
+  display: flex;
+}
+#sun {
+  margin-right: 30px;
+}
+#mon {
+  margin-right: 30px;
+}
+#tue {
+  margin-right: 30px;
+}
+#wed {
+  margin-right: 30px;
+}
+#thu {
+  margin-right: 30px;
+}
+.openSource {
+  margin: 20px auto;
+  display: flex;
+}
